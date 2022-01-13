@@ -1,7 +1,7 @@
 {
      "prefix": "!",
      "namalu" : "NIEL",
-     "nomerlu": "60138545218,601135268529,",
+     "nomerlu": "60138545218,",
      "namabot": "NIEL BOTZ",
      "nomerbot": "60138545218",
      "gender" : "FEMALE",
@@ -27,7 +27,7 @@
      "troliMenu": false,
      "lokasiMenu": false,
      "documentMenu": false,
-     "autoblockcmd" : true,
+     "autoblockcmd" : false,
      "autoWelcome": false,
      "welcomeType1": false,
      "welcomeType2": false,
